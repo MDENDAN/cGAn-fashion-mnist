@@ -1,0 +1,6 @@
+torchvision
+torch==+cu113  # Replace cu113 with the appropriate CUDA version for your system
+streamlit
+numpy
+matplotlib
+pillow
