@@ -1,5 +1,5 @@
 torchvision
-torch==+cu113  # Replace cu113 with the appropriate CUDA version for your system
+torch
 streamlit
 numpy
 matplotlib
